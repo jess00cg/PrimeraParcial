@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/src/componentes": true,
+        "**/src/primera-parcial": true
+    }
+}
